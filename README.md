@@ -18,9 +18,9 @@ Elegir el ZIP Apple Silicon o Intel. Contiene el DMG oficial, instrucciones y el
 
 RustDesk es un proyecto de sus autores originales y se distribuye bajo GNU AGPL v3 según su licencia. Se conserva una copia de la licencia original en `RUSTDESK-LICENCE.txt`.
 
-- Binarios oficiales y publicación original: https://github.com/rustdesk/rustdesk/releases/tag/1.5.1
-- Código fuente y archivos de construcción de la versión original, sin cambios de Aeforma: https://github.com/rustdesk/rustdesk/tree/1.5.1
-- Archivo fuente: https://github.com/rustdesk/rustdesk/archive/refs/tags/1.5.1.tar.gz
+- Binarios oficiales y publicación original: https://github.com/rustdesk/rustdesk/releases/tag/1.5.3
+- Código fuente y archivos de construcción de la versión original, sin cambios de Aeforma: https://github.com/rustdesk/rustdesk/tree/1.5.3
+- Archivo fuente: https://github.com/rustdesk/rustdesk/archive/refs/tags/1.5.3.tar.gz
 - Manifiesto y SHA256 de las descargas disponibles como archivos de la publicación.
 
 Este repositorio contiene exclusivamente descargas y documentación pública de incorporación. No contiene configuración privada del servidor, contraseñas, claves privadas ni datos de clientes.
